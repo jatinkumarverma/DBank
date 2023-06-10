@@ -12,7 +12,7 @@ To get started with Dbank, follow the steps below:
 4. Set up a local development environment or connect to a public Internet Computer testnet.
 5. Access the Dbank DApp through a web browser or use a command-line interface.
 
-# Run Completed Code
+## Run Completed Code
 
 1. Make sure dfx is running
 
